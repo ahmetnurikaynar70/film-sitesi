@@ -2,11 +2,10 @@
 
 THE WEBSITE OF THE FILMS IN THE VISION
 
+<h2> Kullanılan Teknolojiler <h2>
 
+HTML5 CSS3 JS
 
+<h2> Sitenin çalışır gif hali </h2>
 
-
-<h2> Working state of the site </h2>
-
-![](ekran.gif)# html-css-flower# film-sitesi
-# fhtml-css-js-film-sitesi
+![](ekran.gif)# html-css-film sitesi
